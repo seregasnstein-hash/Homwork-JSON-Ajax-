@@ -1,3 +1,8 @@
+html, body{
+    background-color: #282828;
+    color: bisque;
+}
+
 .text_output{
     font-size: 3rem;
     min-height: 100vh;
